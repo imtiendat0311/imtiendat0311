@@ -12,7 +12,7 @@
 - 🤔 &nbsp; Exploring new technologies
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; GVSU Student IT techinician.
-- 🌱 &nbsp; Fullstack Enthusiast. 
+- 🌱 &nbsp; Fullstack & AI Enthusiast. 
 - ✍️ &nbsp; Watching Movie and trying out latest design trends.
 - ☕ &nbsp; `mood == 'boosted' if StarBuck Matcha == 'perfectly make' else '!boosted'`
 
