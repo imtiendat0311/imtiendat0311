@@ -15,6 +15,7 @@
 - 🌱 &nbsp; Fullstack & AI Enthusiast. 
 - ✍️ &nbsp; Watching Movie and trying out latest design trends.
 - ☕ &nbsp; `mood == 'boosted' if StarBuck Matcha == 'perfectly make' else '!boosted'`
+![visit](https://komarev.com/ghpvc/?username=superboo0311&color=3B4252)
 
 <h3>🛠 Tech Stack</h3>
 
@@ -47,5 +48,4 @@
 
 <!-- addded on 3rd May 2021 -->
 
-#### **Visitor Count**
- ![Visitor Count](https://profile-counter.glitch.me/{superboo0311}/count.svg)
+
