@@ -31,10 +31,11 @@
 
 
 
-![Dat Nguyen's GitHub stats](https://github-readme-stats-zeta-amber.vercel.app/api?username=superboo0311&show_icons=true&theme=nord)
+![Dat Nguyen's GitHub stats](https://github-readme-stats-zeta-amber.vercel.app/api?username=superboo0311&show_icons=true&theme=nord&count_private=true)
+
 <br>
 
-[![Top Langs](https://github-readme-stats-zeta-amber.vercel.app/api/top-langs/?username=superboo0311&langs_count=8&show_icons=true&theme=nord)](https://github.com/superboo0311/github-readme-stats)
+[![Top Langs](https://github-readme-stats-zeta-amber.vercel.app/api/top-langs/?username=superboo0311&langs_count=8&show_icons=true&theme=nord&count_private=true)](https://github.com/superboo0311/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
