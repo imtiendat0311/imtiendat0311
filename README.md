@@ -1,8 +1,8 @@
 
 
-<h2> Hey there! I'm Dat Nguyen. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Dat Nguyen. <img src="Hi.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
+<img align="right" alt="GIF" src="1.gif" width="400"/>
 
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 
@@ -10,7 +10,7 @@
 
 - 🔭 &nbsp; Currently learning Flutter and React Native
 - 🤔 &nbsp; Exploring new technologies
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Study aboard CS major
 - 💼 &nbsp; GVSU Student IT techinician.
 - 🌱 &nbsp; Fullstack & AI Enthusiast. 
 - ✍️ &nbsp; Watching Movie and trying out latest design trends.
@@ -18,26 +18,17 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
+- 💻 &nbsp; Python | Dart | Java | C | HTML | CSS | JavaScript | Latex | Bash
 - 🌐 &nbsp; React Native | Android | Flutter | node.js
 - 🛢 &nbsp; MySQL | Firebase 
-- 🔧 &nbsp; Android Studio | Intellij | Visual Studio code | Git
+- 🔧 &nbsp; Android Studio | Intellij | Visual Studio Code | Git
 - 🖥 &nbsp; Figma | Adobe Illustrator | Adobe Photoshop 
 
 <br>
 
-<!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-
-
-
-
-
-
 ![Dat Nguyen's GitHub stats](https://github-readme-stats-zeta-amber.vercel.app/api?username=superboo0311&show_icons=true&theme=nord&count_private=true)
 
-
-
-[![Top Langs](https://github-readme-stats-zeta-amber.vercel.app/api/top-langs/?username=superboo0311&langs_count=8&show_icons=true&theme=nord&count_private=true&layout=compact)](https://github.com/superboo0311/github-readme-stats)
+[![Top Langs](https://github-readme-stats-zeta-amber.vercel.app/api/top-langs/?username=superboo0311&langs_count=10&show_icons=true&theme=nord&count_private=true&layout=compact)](https://github.com/superboo0311/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
