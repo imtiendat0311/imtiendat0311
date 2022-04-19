@@ -3,7 +3,7 @@
 
 
 
-<h2 align = "center">Hello there!
+<h2>Hello there!
 I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
 
 
