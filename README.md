@@ -1,5 +1,5 @@
 
-<img align = "center" src="cover.svg" width="500">
+<img align = "center" src="cover.svg" width="550">
 
 
 
