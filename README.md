@@ -16,7 +16,6 @@
 - ✍️ &nbsp; Watching Movie and trying out latest design trends.
 - ☕ &nbsp; `mood == 'boosted' if StarBuck Matcha == 'perfectly make' else '!boosted'`
 
-<br>
 
 
 
@@ -38,7 +37,7 @@
 
 
 
-<br>
+
 <h3>👀 Visitor</h3>
 
 <ul>
@@ -54,8 +53,6 @@
 ![Dat Nguyen's GitHub stats](https://github-readme-stats-zeta-amber.vercel.app/api?username=superboo0311&show_icons=true&theme=nord&count_private=true)
 
 
-
-<br>
 <h3> 🤝🏻 Connect with Me </h3>
 <br>
 <p align="center">
