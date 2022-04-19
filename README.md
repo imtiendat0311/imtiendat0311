@@ -1,3 +1,5 @@
+
+
 <h2> Hey there! I'm Dat Nguyen. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
 
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
@@ -35,7 +37,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats-zeta-amber.vercel.app/api/top-langs/?username=superboo0311&langs_count=8&show_icons=true&theme=nord&count_private=true)](https://github.com/superboo0311/github-readme-stats)
+[![Top Langs](https://github-readme-stats-zeta-amber.vercel.app/api/top-langs/?username=superboo0311&langs_count=8&show_icons=true&theme=nord&count_private=true&layout=compact)](https://github.com/superboo0311/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
