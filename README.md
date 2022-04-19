@@ -16,7 +16,7 @@
 - ✍️ &nbsp; Watching Movie and trying out latest design trends.
 - ☕ &nbsp; `mood == 'boosted' if StarBuck Matcha == 'perfectly make' else '!boosted'`
 
--![visit](https://komarev.com/ghpvc/?username=superboo0311&color=3B4252)
+- ![visit](https://komarev.com/ghpvc/?username=superboo0311&color=3B4252)
 
 <h3>🛠 Tech Stack</h3>
 
