@@ -1,11 +1,11 @@
 
-<img align = "center" src="cover.svg" >
+
 
 
 
 <h2>Hello there!
 I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
-
+<img align = "center" src="cover.svg" >
 
 
 <img align="right" alt="GIF" src="1.gif" width="400"/>
