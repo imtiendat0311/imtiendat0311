@@ -8,7 +8,7 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
 
 
 
-<img align="right" alt="GIF" src="1.gif" width="400"/>
+<img align="right" alt="GIF" src="1.gif" width="300"/>
 
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 
