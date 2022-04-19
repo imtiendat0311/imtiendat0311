@@ -3,14 +3,15 @@
 
 
 
-<h2>Hello there!
+<h2 align="center">Hello there!
 I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
 <img align = "center" src="cover.svg" >
 
+<br>
 
-<img align="right" alt="GIF" src="1.gif" width="400"/>
+<img align="right" alt="GIF" src="1.gif" width="400" style="border-radius:4%">
 
-<!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
