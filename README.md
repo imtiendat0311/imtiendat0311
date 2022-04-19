@@ -49,7 +49,6 @@
 <br> 
 
 <h3>📊  My Github Stats</h3>
-<br>
 
 [![Top Langs](https://github-readme-stats-zeta-amber.vercel.app/api/top-langs/?username=superboo0311&langs_count=10&show_icons=true&theme=nord&count_private=true&layout=compact)](https://github.com/superboo0311/github-readme-stats)
 
