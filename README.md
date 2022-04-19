@@ -44,7 +44,7 @@
 
 Aaahhhhhh !! My contribution grapgh is getting eaten... 😶
 
-![snake gif](https://raw.githubusercontent.com/superboo0311/superboo0311/tree/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/superboo0311/superboo0311/blob/output/github-contribution-grid-snake.gif?raw=true)
 
 
 
