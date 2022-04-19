@@ -54,7 +54,7 @@
 
 
 <h3> 🤝🏻 Connect with Me </h3>
-<br>
+
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/dat-nguyen-32606917b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
 &nbsp; <a href="https://fb.me/nguyen.tien.dat.03.11" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white"/></a>
@@ -63,14 +63,11 @@
 &nbsp; <a href="https://twitter.com/imtiendat0311" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/imtiendat0311-%231DA1F2.svg?style=flate&logo=Twitter&logoColor=white" /></a>  
 &nbsp; <a href="https://www.instagram.com/cuocdoithatvui123/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/cuocdoithatvui-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"  /></a>   
 &nbsp; <a href="https://discord.gg/F6RXhbE8v9/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hoi Rach Kid-%237289DA.svg?style=flat&logo=discord&logoColor=white"  /></a>   
-
-
 </p>
-<br>
+
 <h3> 🐍 Eating my contribution </h3>
 
 ![snake gif](https://github.com/superboo0311/superboo0311/blob/output/github-contribution-grid-snake.svg?raw=true)
 
-<br>
 
 
