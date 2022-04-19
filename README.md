@@ -43,9 +43,10 @@
 </p>
 
 Aaahhhhhh !! My contribution grapgh is getting eaten... 😶
-<p> 
- <img src="https://raw.githubusercontent.com/superboo0311/superboo0311/output/github-contribution-grid-snake.gif" />
-</p>
+
+![snake gif](https://github.com/superboo0311/superboo0311/output/github-contribution-grid-snake.gif)
+
+
 
 <!-- addded on 3rd May 2021 -->
 
