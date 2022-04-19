@@ -1,9 +1,10 @@
 
-<img align = "center" src="cover.svg">
+<img align = "center" src="cover.svg" width="500">
 
 
 
-<h2 align = "center"> Hello there! I'm Dat Nguyen. <img src="Hi.gif" width="25"> </h2>
+<h2 align = "center">Hello there!
+I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
 
 
 
