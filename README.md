@@ -1,6 +1,11 @@
 
+<img align = "center" src="cover.svg">
 
-<h2> Hey there! I'm Dat Nguyen. <img src="Hi.gif" width="25"> </h2>
+<br>
+
+<h2 align = "center"> Hello there! I'm Dat Nguyen. <img src="Hi.gif" width="25"> </h2>
+
+<br>
 
 <img align="right" alt="GIF" src="1.gif" width="400"/>
 
@@ -8,9 +13,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently learning Flutter and React Native
+- 🔭 &nbsp; Learning Flutter and React Native
 - 🤔 &nbsp; Exploring new technologies
-- 🎓 &nbsp; Study aboard CS major
+- 🎓 &nbsp; Study aboard at Grand Valley State University
 - 💼 &nbsp; GVSU Student IT techinician.
 - 🌱 &nbsp; Fullstack & AI Enthusiast. 
 - ✍️ &nbsp; Watching Movie and trying out latest design trends.
