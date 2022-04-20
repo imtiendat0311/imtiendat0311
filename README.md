@@ -5,9 +5,11 @@
 
 <h2 align="center">Hello there!
 I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
+<div align="center">
 <img align = "center" src="cover.svg" >
-
+</div>
 <br>
+
 
 <img align="right" alt="GIF" src="1.gif" width="400" style="border-radius:4%">
 
