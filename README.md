@@ -57,9 +57,11 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
 
 <h3>📊  My Github Stats</h3>
 
-[![Top Langs](https://github-readme-stats-zeta-amber.vercel.app/api/top-langs/?username=superboo0311&langs_count=10&show_icons=true&theme=nord&count_private=true&layout=compact)](https://github.com/superboo0311/github-readme-stats)
+[![Top Langs](https://github-readme-stats-superboo0311.vercel.app
+/api/top-langs/?username=superboo0311&langs_count=10&show_icons=true&theme=nord&count_private=true&layout=compact)](https://github.com/superboo0311/github-readme-stats)
 
-![Dat Nguyen's GitHub stats](https://github-readme-stats-zeta-amber.vercel.app/api?username=superboo0311&show_icons=true&theme=nord&count_private=true)
+![Dat Nguyen's GitHub stats](https://github-readme-stats-superboo0311.vercel.app
+/api?username=superboo0311&show_icons=true&theme=nord&count_private=true)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
