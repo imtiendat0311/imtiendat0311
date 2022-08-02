@@ -18,7 +18,7 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Learning Flutter and React Native
-- 🤔 &nbsp; Exploring Dobly Vision & Swift 5
+- 🤔 &nbsp; Exploring Dobly Vision & Swift 
 - 🎓 &nbsp; Study aboard at Grand Valley State University
 - 💼 &nbsp; GVSU Student IT techinician.
 - 🌱 &nbsp; Fullstack & AI Enthusiast. 
