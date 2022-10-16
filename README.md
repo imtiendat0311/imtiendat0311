@@ -3,19 +3,19 @@
 
 
 
-<h2 align="center">Hello there!
-I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
+<h1 align="center">Hello there!
+I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 <div align="center">
 <img align = "center" src="cover.svg" >
 </div>
 <br>
 
-
+<h1 align="center"> 👨🏻‍💻 About Me </h1>
 <img align="right" alt="GIF" src="1.gif" width="400" style="border-radius:4%">
 
 
 
-<h3> 👨🏻‍💻 About Me </h3>
+
 
 - 🔭 &nbsp; Learning Flutter and React Native
 - 🤔 &nbsp; Exploring Dobly Vision & Swift 
@@ -28,7 +28,7 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
 
 
 
-<h3>🛠 Tech Stack</h3>
+<h1 align="center">🛠 Tech Stack</h1>
 
 - 💻 &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=Flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -64,26 +64,29 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
 
 
 
-<h3>👀 Visitor</h3>
+<h1 align="center">👀 Visitor</h1>
+<br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=superboo0311&color=red"></li>
+</div>
+<br>
 
-<ul>
-<li><img align=""  src="https://komarev.com/ghpvc/?username=superboo0311&color=red"></li>
-</ul>
+<br>
+<h1 align="center">📊  My Github Stats</h1><br>
+<div align="center">
+<img height="150px"src="https://github-readme-stats-superboo0311.vercel.app/api/top-langs/?username=imtiendat0311&langs_count=10&show_icons=true&include_all_commits=true&count_private=true&theme=nord&layout=compact&)" alt="Dat Nguyen's Top Langs"/> <img height="150px" src="https://github-readme-stats-superboo0311.vercel.app/api?username=imtiendat0311&show_icons=true&theme=nord&count_private=true" alt="Dat Nguyen's GitHub stats"/><br></div>
 
 
 
-<h3>📊  My Github Stats</h3>
 
-[![Top Langs](https://github-readme-stats-superboo0311.vercel.app/api/top-langs/?username=imtiendat0311&langs_count=10&show_icons=true&theme=nord&count_private=true&layout=compact)](https://github.com/superboo0311/github-readme-stats)
+<br>
+<h1 align="center">🎧 Recent Play</h1>
+<br>
+<div align="center"> <img src="https://spotify-github-profile-superboo0311.vercel.app/api/view?uid=3mwksj1bzpj6fmcxdzeuzhoft&cover_image=true&theme=compact&show_offline=true"/></div><br>
 
-![Dat Nguyen's GitHub stats](https://github-readme-stats-superboo0311.vercel.app/api?username=imtiendat0311&show_icons=true&theme=nord&count_private=true)
-
-<h3>🎧 Recent Music</h3>
-
-[![spotify-github-profile](https://spotify-github-profile-superboo0311.vercel.app/api/view?uid=3mwksj1bzpj6fmcxdzeuzhoft&cover_image=true&theme=compact&show_offline=false)](https://spotify-github-profile-superboo0311.vercel.app/api/view?uid=3mwksj1bzpj6fmcxdzeuzhoft&redirect=true)
-
-<h3> 🤝🏻 Connect with Me </h3>
-
+<br>
+<h1 align="center"> 🤝🏻 Connect with Me </h1>
+<br>
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/dat-nguyen-32606917b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
 &nbsp; <a href="https://fb.me/nguyen.tien.dat.03.11" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white"/></a>
@@ -92,8 +95,9 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
 &nbsp; <a href="https://twitter.com/imtiendat0311" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/imtiendat0311-%231DA1F2.svg?style=flate&logo=Twitter&logoColor=white" /></a>  
 &nbsp; <a href="https://www.instagram.com/cuocdoithatvui123/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/cuocdoithatvui-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"  /></a>   
 &nbsp; <a href="https://discord.gg/F6RXhbE8v9/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hoi Rach Kid-%237289DA.svg?style=flat&logo=discord&logoColor=white"  /></a>   
-</p>
-
-<h3> 🐍 Eating my contribution </h3>
+</p><br>
+<br>
+<h1 align="center"> 🐍 Eating my contribution </h1>
+<br>
 
 ![snake gif](https://github.com/superboo0311/superboo0311/blob/output/github-contribution-grid-snake.svg?raw=true)
