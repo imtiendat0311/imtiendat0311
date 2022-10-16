@@ -11,7 +11,7 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 <br>
 
 <h1 align="center"> 👨🏻‍💻 About Me </h1>
-<img align="right" alt="GIF" src="1.gif" width="250" style="border-radius:4%">
+<img align="right" alt="GIF" src="1.gif" width="400" style="border-radius:4%">
 
 
 
@@ -26,6 +26,8 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 - ☕ &nbsp; `mood == 'boosted' if HomeMade Matcha == 'perfectly make' else '!boosted'`
 
 
+<br>
+<br>
 <br>
 <h1 align="center">🛠 Tech Stack</h1>
 
