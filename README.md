@@ -78,7 +78,7 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
 
 ![Dat Nguyen's GitHub stats](https://github-readme-stats-superboo0311.vercel.app/api?username=imtiendat0311&show_icons=true&theme=nord&count_private=true)
 
-<h3>🎧 Current Listening</h3>
+<h3>🎧 Recently Listening</h3>
 
 [![spotify-github-profile](https://spotify-github-profile-superboo0311.vercel.app/api/view?uid=3mwksj1bzpj6fmcxdzeuzhoft&cover_image=true&theme=default&show_offline=false)](https://spotify-github-profile-superboo0311.vercel.app/api/view?uid=3mwksj1bzpj6fmcxdzeuzhoft&redirect=true)
 
