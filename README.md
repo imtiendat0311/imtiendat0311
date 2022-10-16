@@ -75,8 +75,12 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
 <h3>📊  My Github Stats</h3>
 
 [![Top Langs](https://github-readme-stats-superboo0311.vercel.app/api/top-langs/?username=imtiendat0311&langs_count=10&show_icons=true&theme=nord&count_private=true&layout=compact)](https://github.com/superboo0311/github-readme-stats)
+
 ![Dat Nguyen's GitHub stats](https://github-readme-stats-superboo0311.vercel.app/api?username=imtiendat0311&show_icons=true&theme=nord&count_private=true)
 
+<h3>🎧 Current Listening</h3>
+
+[![spotify-github-profile](https://spotify-github-profile-superboo0311.vercel.app/api/view?uid=3mwksj1bzpj6fmcxdzeuzhoft&cover_image=true&theme=default&show_offline=false)](https://spotify-github-profile-superboo0311.vercel.app/api/view?uid=3mwksj1bzpj6fmcxdzeuzhoft&redirect=true)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -93,6 +97,3 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h2>
 <h3> 🐍 Eating my contribution </h3>
 
 ![snake gif](https://github.com/superboo0311/superboo0311/blob/output/github-contribution-grid-snake.svg?raw=true)
-
-
-
