@@ -11,7 +11,7 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 <br>
 
 <h1 align="center"> 👨🏻‍💻 About Me </h1>
-<img align="right" alt="GIF" src="1.gif" width="400" style="border-radius:4%">
+<img align="right" alt="GIF" src="1.gif" width="250" style="border-radius:4%">
 
 
 
@@ -26,8 +26,7 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 - ☕ &nbsp; `mood == 'boosted' if HomeMade Matcha == 'perfectly make' else '!boosted'`
 
 
-
-
+<br>
 <h1 align="center">🛠 Tech Stack</h1>
 
 - 💻 &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=Flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -69,7 +68,6 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=superboo0311&color=red"></li>
 </div>
-<br>
 
 <br>
 <h1 align="center">📊  My Github Stats</h1><br>
@@ -84,7 +82,6 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 <br>
 <div align="center"> <img src="https://spotify-github-profile-superboo0311.vercel.app/api/view?uid=3mwksj1bzpj6fmcxdzeuzhoft&cover_image=true&theme=compact&show_offline=true"/></div><br>
 
-<br>
 <h1 align="center"> 🤝🏻 Connect with Me </h1>
 <br>
 <p align="center">
@@ -96,7 +93,6 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 &nbsp; <a href="https://www.instagram.com/cuocdoithatvui123/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/cuocdoithatvui-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"  /></a>   
 &nbsp; <a href="https://discord.gg/F6RXhbE8v9/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hoi Rach Kid-%237289DA.svg?style=flat&logo=discord&logoColor=white"  /></a>   
 </p><br>
-<br>
 <h1 align="center"> 🐍 Eating my contribution </h1>
 <br>
 
