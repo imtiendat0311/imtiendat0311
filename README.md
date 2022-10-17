@@ -74,7 +74,7 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 <br>
 <h1 align="center">📊  My Github Stats</h1><br>
 <div align="center">
-<img height="150px"src="https://github-readme-stats-superboo0311.vercel.app/api/top-langs/?username=imtiendat0311&langs_count=10&show_icons=true&include_all_commits=true&count_private=true&theme=nord&layout=compact&)" alt="Dat Nguyen's Top Langs"/> <img height="150px" src="https://github-readme-stats-superboo0311.vercel.app/api?username=imtiendat0311&show_icons=true&theme=nord&count_private=true" alt="Dat Nguyen's GitHub stats"/><br></div>
+<img height="150px"src="https://github-readme-stats-superboo0311.vercel.app/api/top-langs/?username=imtiendat0311&langs_count=10&show_icons=true&include_all_commits=true&count_private=true&theme=nord&layout=compact&" alt="Dat Nguyen's Top Langs"/> <img height="150px" src="https://github-readme-stats-superboo0311.vercel.app/api?username=imtiendat0311&show_icons=true&theme=nord&count_private=true" alt="Dat Nguyen's GitHub stats"/><br></div>
 
 
 
