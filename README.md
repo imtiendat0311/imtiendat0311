@@ -98,6 +98,8 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 <h1 align="center"> 🐍 Eating my contribution </h1>
 <br>
 
-![GitHub Snake Light](superboo0311/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](superboo0311/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](
+imtiendat0311/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](
+imtiendat0311/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
