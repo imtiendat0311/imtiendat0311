@@ -99,7 +99,7 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 <br>
 
 ![GitHub Snake Light](
-imtiendat0311/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+https://raw.githubusercontent.com/imtiendat0311/imtiendat0311/bd67145b9ff660d9463e1d8dd87442b7339e3f68/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](
-imtiendat0311/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+https://raw.githubusercontent.com/imtiendat0311/imtiendat0311/bd67145b9ff660d9463e1d8dd87442b7339e3f68/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
