@@ -17,10 +17,10 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 
 
 
-- 🔭 &nbsp; Learning Flutter and React Native
-- 🤔 &nbsp; Exploring Dobly Vision & Swift 
+- 🔭 &nbsp; Learning AI agent in production
+- 🤔 &nbsp; Exploring NLP, LLM, CV 
 - 🎓 &nbsp; Study aboard at Grand Valley State University
-- 💼 &nbsp; GVSU Student IT techinician.
+- 💼 &nbsp; AI Researcher
 - 🌱 &nbsp; Fullstack & AI Enthusiast. 
 - ✍️ &nbsp; Watching Movie and trying out latest design trends.
 - ☕ &nbsp; `mood == 'boosted' if HomeMade Matcha == 'perfectly make' else '!boosted'`
@@ -87,7 +87,7 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 <br>
 <h1 align="center">🎧 Recent Play</h1>
 <br>
-<div align="center"> <img src="https://spotify-github-profile-superboo0311.vercel.app/api/view?uid=3mwksj1bzpj6fmcxdzeuzhoft&cover_image=true&theme=compact&"/></div><br>
+<!-- <div align="center"> <img src="https://spotify-github-profile-superboo0311.vercel.app/api/view?uid=3mwksj1bzpj6fmcxdzeuzhoft&cover_image=true&theme=compact&"/></div><br> -->
 <div align="center"><img src="https://spotify-top-play-superboo0311.vercel.app/api/top-played">
 </div><br>
 <h1 align="center"> 🤝🏻 Connect with Me </h1>
@@ -100,12 +100,4 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 &nbsp; <a href="https://twitter.com/imtiendat0311" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/imtiendat0311-%231DA1F2.svg?style=flate&logo=Twitter&logoColor=white" /></a>  
 &nbsp; <a href="https://www.instagram.com/cuocdoithatvui123/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/cuocdoithatvui-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"  /></a>   
 &nbsp; <a href="https://discord.gg/F6RXhbE8v9/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hoi Rach Kid-%237289DA.svg?style=flat&logo=discord&logoColor=white"  /></a>   
-</p><br>
-<h1 align="center"> 🐍 Eating my contribution </h1>
-<br>
-
-![GitHub Snake Light](
-https://raw.githubusercontent.com/imtiendat0311/imtiendat0311/bd67145b9ff660d9463e1d8dd87442b7339e3f68/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](
-https://raw.githubusercontent.com/imtiendat0311/imtiendat0311/bd67145b9ff660d9463e1d8dd87442b7339e3f68/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
+</p>
