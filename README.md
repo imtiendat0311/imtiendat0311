@@ -87,7 +87,7 @@ I'm Dat Nguyen. <img src="Hi.gif" width="20"> </h1>
 <br>
 <h1 align="center">🎧 Recent Play</h1>
 <br>
-<div align="center"> <img src="https://spotify-github-profile-superboo0311.vercel.app/api/view?uid=3mwksj1bzpj6fmcxdzeuzhoft&cover_image=true&theme=compact&"/></div><br>
+<!-- <div align="center"> <img src="https://spotify-github-profile-superboo0311.vercel.app/api/view?uid=3mwksj1bzpj6fmcxdzeuzhoft&cover_image=true&theme=compact&"/></div><br> -->
 <div align="center"><img src="https://spotify-top-play-superboo0311.vercel.app/api/top-played">
 </div><br>
 <h1 align="center"> 🤝🏻 Connect with Me </h1>
